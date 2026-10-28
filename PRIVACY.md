@@ -5,8 +5,8 @@ Die App "Drōply" (com.leanderfischer.droply) wurde als datenschutzfreundliche A
 ## 1. Verantwortlicher für die Datenverarbeitung
 Verantwortlich für das Angebot dieser App ist der Inhaber des Apple-Entwicklerkontos:
 Volker Fischer
-[Optional: Hier die Straße und den Wohnort deines Vaters eintragen]
-E-Mail: [Deine oder die E-Mail-Adresse deines Vaters für Support]
+
+E-Mail: feedback.droply@gmail.com
 
 ## 2. Lokale Speicherung (Offline-First)
 Alle von Ihnen in der App eingegebenen Daten (wie Kundendaten, Notizen, Rezepte und Bestellpläne) werden ausschließlich lokal auf Ihrem Endgerät gespeichert (mittels AsyncStorage). Es findet keine Synchronisation mit einer Cloud oder externen Datenbanken statt.
