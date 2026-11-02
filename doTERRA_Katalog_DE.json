@@ -9,18 +9,23 @@
   "products": [
     {
       "id": "a",
-      "n": "a2z Chewable™ Kautabletten und IQ Mega™ Pack",
+      "n": "a2z Chewable und IQ Mega Pack",
       "e": 60.75,
       "v": 81.01,
       "p": 60,
       "k": "Kit",
-      "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/a2z-chewables-iq-mega-large-1720x1350.png?color=%23E63946&color2=%23FFB703&color3=%238B001A",
-      "m": 2,
+
+
+
+
+
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/a2z-chewables-iq-mega-large-1720x1350.png?color=%23F1F5F2&color2=%23C8D9C5&color3=%2394A891",
+      "m": 1,
       "productGroup": "bundle"
     },
     {
       "id": "a1",
-      "n": "a2z Chewable™ Kinder-Kautabletten",
+      "n": "a2z Chewable Kautabletten",
       "e": 30.5,
       "v": 40.66,
       "p": 24.5,
