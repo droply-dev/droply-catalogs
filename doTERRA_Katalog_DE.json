@@ -1060,8 +1060,8 @@
     {
       "id": "d13",
       "n": "Deep Blue™ Stick",
-      "e": 43.99,
-      "v": 33,
+      "e":  33,
+      "v": 43.99,
       "p": 26,
       "k": "G",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/body-care/deepbluestick-large-1720x1350.png",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": "d15",
-      "n": "dōTERRA Kids Collection Einschreibungs-Kit",
+      "n": "Kids Collection Einschreibungs-Kit",
       "e": 148.5,
       "v": 198,
       "p": 111.5,
@@ -1236,8 +1236,8 @@
     {
       "id": "f7",
       "n": "Fractionated Coconut Oil",
-      "e": 25,
-      "v": 30,
+      "e": 19.25,
+      "v": 25.67,
       "p": 15.5,
       "k": "Stk",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/fractionated-coconut-oil-medium-232x630px-eu.png",
@@ -1897,7 +1897,7 @@
       "id": "m14",
       "n": "MetaPWR™ Softgels",
       "e": 37,
-      "v": 47.34,
+      "v": 49.34,
       "p": 34.5,
       "k": "Softgels",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/metapwr-softgels-large-1720x1350-eu.png",
@@ -3218,7 +3218,7 @@
       "n": "Ylang Ylang",
       "e": 51,
       "v": 68.01,
-      "p": 46,
+      "p": 49.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/ylangylang15ml-large-500x1350-eu.png",
       "m": 15,
@@ -3301,17 +3301,7 @@
       "m": 100,
       "productGroup": "single"
     },
-    {
-      "id": "z5",
-      "n": "ZenGest Softgels 60 Sgls",
-      "e": 27,
-      "v": 35.99,
-      "p": 26,
-      "k": "Softgels",
-      "u": "",
-      "m": 60,
-      "productGroup": "single"
-    },
+    
     {
       "id": "z6",
       "n": "ZenGest Touch",
