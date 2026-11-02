@@ -406,7 +406,7 @@
       "k": "Stk",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/amberrollers-large-1720x983-eu.png",
       "m": 6,
-      "productGroup": "single"
+      "productGroup": "accessory"
     },
     {
       "id": "b12",
@@ -417,7 +417,7 @@
       "k": "Stk",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/on-guard/amber-dispenser-3pack-medium-800x630-eu.png",
       "m": 3,
-      "productGroup": "single"
+      "productGroup": "accessory"
     },
     {
       "id": "b13",
@@ -978,7 +978,7 @@
       "k": "Stk",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/capstickers-800x630-eu.jpg",
       "m": 1,
-      "productGroup": "single"
+      "productGroup": "accessory"
     },
     {
       "id": "d6",
