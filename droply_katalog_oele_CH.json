@@ -1,16 +1,16 @@
 {
   "format": "droply-product-catalog",
-  "version": 15,
-  "exportedAt": "2026-10-08T11:29:17.103Z",
+  "version": 16,
+  "exportedAt": "2026-11-06T12:39:06.467Z",
   "catalog": {
-    "name": "DT-Katalog CH",
+    "name": "doTERRA Katalog CH",
     "currency": "EUR"
   },
   "products": [
     {
       "id": "a",
       "n": "a2z Chewable und IQ Mega Pack",
-         "e": 58.26,
+      "e": 58.26,
       "v": 77.68,
       "p": 60,
       "k": "Kit",
@@ -32,7 +32,7 @@
     {
       "id": "a2",
       "n": "Abode",
-     "e": 27.48,
+      "e": 27.48,
       "v": 36.64,
       "p": 29,
       "k": "Öl",
@@ -43,7 +43,7 @@
     {
       "id": "a3",
       "n": "Adaptiv",
-       "e": 46.33,
+      "e": 46.33,
       "v": 61.78,
       "p": 49.5,
       "k": "Öl",
@@ -65,7 +65,7 @@
     {
       "id": "a5",
       "n": "Adaptiv Kapseln",
-       "e": 41.95,
+      "e": 41.95,
       "v": 55.94,
       "p": 36,
       "k": "Kapseln",
@@ -98,7 +98,7 @@
     {
       "id": "a8",
       "n": "Air-X",
-       "e": 35.88,
+      "e": 35.88,
       "v": 47.83,
       "p": 38,
       "k": "Öl",
@@ -109,7 +109,7 @@
     {
       "id": "a9",
       "n": "Air Pastillen",
-       "e": 19.76,
+      "e": 19.76,
       "v": 26.34,
       "p": 17,
       "k": "Stk",
@@ -131,7 +131,7 @@
     {
       "id": "a11",
       "n": "Align",
-       "e": 23.85,
+      "e": 23.85,
       "v": 31.79,
       "p": 25.5,
       "k": "Öl",
@@ -142,7 +142,7 @@
     {
       "id": "a12",
       "n": "Alpha CRS™+",
-       "e": 76.23,
+      "e": 76.23,
       "v": 101.65,
       "p": 81,
       "k": "Kapseln",
@@ -153,7 +153,7 @@
     {
       "id": "a13",
       "n": "Anchor",
-       "e": 23.85,
+      "e": 23.85,
       "v": 31.79,
       "p": 25.5,
       "k": "Öl",
@@ -164,7 +164,7 @@
     {
       "id": "a14",
       "n": "Anti-Aging Augencreme",
-    "e": 47.01,
+      "e": 47.01,
       "v": 62.69,
       "p": 47.5,
       "k": "Ml",
@@ -186,7 +186,7 @@
     {
       "id": "a16",
       "n": "Arborvitae",
-     "e": 25.89,
+      "e": 25.89,
       "v": 34.52,
       "p": 28,
       "k": "Öl",
@@ -197,7 +197,7 @@
     {
       "id": "a17",
       "n": "Arise",
-       "e": 23.85,
+      "e": 23.85,
       "v": 31.79,
       "p": 25.5,
       "k": "Öl",
@@ -208,7 +208,7 @@
     {
       "id": "a18",
       "n": "AromaTouch",
-     "e": 36.79,
+      "e": 36.79,
       "v": 49.04,
       "p": 39,
       "k": "Öl",
@@ -230,7 +230,7 @@
     {
       "id": "a20",
       "n": "AromaTouch Technique Kit",
-       "e": 129.22,
+      "e": 129.22,
       "v": 172.3,
       "p": 131.5,
       "k": "Kit",
@@ -241,7 +241,7 @@
     {
       "id": "a21",
       "n": "AromaTouch Refill Kit",
-    "e": 235.28,
+      "e": 235.28,
       "v": 313.71,
       "p": 250,
       "k": "Kit",
@@ -252,7 +252,7 @@
     {
       "id": "a22",
       "n": "AromaTouch Training Kit",
-     "e": 258.22,
+      "e": 258.22,
       "v": 344.29,
       "p": 274.5,
       "k": "Kit",
@@ -296,7 +296,7 @@
     {
       "id": "b2",
       "n": "Balance",
-       "e": 27.48,
+      "e": 27.48,
       "v": 36.64,
       "p": 29,
       "k": "Öl",
@@ -307,7 +307,7 @@
     {
       "id": "b3",
       "n": "Balance Touch",
-    "e": 18.17,
+      "e": 18.17,
       "v": 24.23,
       "p": 19.5,
       "k": "Öl",
@@ -318,7 +318,7 @@
     {
       "id": "b4",
       "n": "Balance Badeseife",
-       "e": 10.44,
+      "e": 10.44,
       "v": 13.92,
       "p": 7,
       "k": "G",
@@ -329,7 +329,7 @@
     {
       "id": "b5",
       "n": "Balance Deodorant",
-     "e": 14.31,
+      "e": 14.31,
       "v": 19.08,
       "p": 10,
       "k": "G",
@@ -351,7 +351,7 @@
     {
       "id": "b7",
       "n": "Basil",
-     "e": 32.02,
+      "e": 32.02,
       "v": 42.69,
       "p": 34,
       "k": "Öl",
@@ -362,7 +362,7 @@
     {
       "id": "b8",
       "n": "Beginner's Trio",
-     "e": 71.54,
+      "e": 71.54,
       "v": 95.39,
       "p": 75.5,
       "k": "Kit",
@@ -384,7 +384,7 @@
     {
       "id": "b10",
       "n": "Bergamot",
-        "e": 44.74,
+      "e": 44.74,
       "v": 59.66,
       "p": 47.5,
       "k": "Öl",
@@ -395,7 +395,7 @@
     {
       "id": "b11",
       "n": "Bernsteinfarbene 10-ml-Roll-On-Flasche",
-     "e": 5.68,
+      "e": 5.68,
       "v": 7.57,
       "p": 0,
       "k": "Stk",
@@ -406,7 +406,7 @@
     {
       "id": "b12",
       "n": "Bernsteinfarbener Seifenspender",
-     "e": 7.49,
+      "e": 7.49,
       "v": 9.99,
       "p": 0,
       "k": "Stk",
@@ -417,8 +417,8 @@
     {
       "id": "b13",
       "n": "Black Pepper",
-    "e": 24.30,
-      "v": 32.40,
+      "e": 24.3,
+      "v": 32.4,
       "p": 26,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/blackpepper5ml-large-404x1350-eu.png",
@@ -428,7 +428,7 @@
     {
       "id": "b14",
       "n": "Black Spruce",
-        "e": 22.03,
+      "e": 22.03,
       "v": 29.37,
       "p": 23.5,
       "k": "Öl",
@@ -450,7 +450,7 @@
     {
       "id": "b16",
       "n": "Blue Tansy",
-    "e": 102.65,
+      "e": 102.65,
       "v": 136.87,
       "p": 110,
       "k": "Öl",
@@ -461,7 +461,7 @@
     {
       "id": "b17",
       "n": "Body Mineral Sunscreen Spray",
-        "e": 32.25,
+      "e": 32.25,
       "v": 42.99,
       "p": 24.5,
       "k": "G",
@@ -472,7 +472,7 @@
     {
       "id": "b18",
       "n": "Brave",
-       "e": 25.66,
+      "e": 25.66,
       "v": 34.21,
       "p": 27.5,
       "k": "Öl",
@@ -494,7 +494,7 @@
     {
       "id": "b20",
       "n": "Bundle „Wohlbefinden, leicht gemacht",
-     "e": 143.59,
+      "e": 143.59,
       "v": 191.45,
       "p": 129.5,
       "k": "Kit",
@@ -505,7 +505,7 @@
     {
       "id": "b21",
       "n": "Bundle „Wohlbefinden, leicht gemacht“ (-Tabletten)",
-"e": 130.17,
+      "e": 130.17,
       "v": 173.56,
       "p": 115,
       "k": "Kit",
@@ -516,8 +516,8 @@
     {
       "id": "b22",
       "n": "Bundle „Wohlbefinden, leicht gemacht“ (Vegan)",
-      "e": 153.90,
-      "v": 205.20,
+      "e": 153.9,
+      "v": 205.2,
       "p": 136,
       "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/wellnessmadesimple-vegan-large-1720x1350.png",
@@ -527,9 +527,9 @@
     {
       "id": "c",
       "n": "Cade Wood",
-       "e": 34.00,
+      "e": 34,
       "v": 45.35,
-      "p": 34
+      "p": 34,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/cadewood-large-1720x1350.png",
       "m": 5,
@@ -538,9 +538,9 @@
     {
       "id": "c1",
       "n": "Calmer",
-      "e": 24.30,
-      "v": 32.40,
-      "p": 26
+      "e": 24.3,
+      "v": 32.4,
+      "p": 26,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/calmer-large-301x1350-eu.png",
       "m": 10,
@@ -549,9 +549,9 @@
     {
       "id": "c2",
       "n": "Cardamom",
-       "e": 33.61,
+      "e": 33.61,
       "v": 44.81,
-      "p": 35.5
+      "p": 35.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/cardamom5ml-large-404x1350-eu.png",
       "m": 5,
@@ -560,9 +560,9 @@
     {
       "id": "c3",
       "n": "Cassia",
-        "e": 24.30,
-      "v": 32.40,
-      "p": 26
+      "e": 24.3,
+      "v": 32.4,
+      "p": 26,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/cassia15ml-large-500x1350-eu.png",
       "m": 15,
@@ -571,9 +571,9 @@
     {
       "id": "c4",
       "n": "Cedarwood",
-    "e": 17.94,
+      "e": 17.94,
       "v": 23.92,
-      "p": 19
+      "p": 19,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/cedarwood15ml-large-500x1350-eu.png",
       "m": 15,
@@ -582,9 +582,9 @@
     {
       "id": "c5",
       "n": "Celery Seed",
-     "e": 39.96,
+      "e": 39.96,
       "v": 53.28,
-      "p": 42.5
+      "p": 42.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/celeryseed-15ml-large-500x1350-eu.png",
       "m": 15,
@@ -593,9 +593,9 @@
     {
       "id": "c6",
       "n": "Changing Seasons Kit",
-       "e": 185.77,
+      "e": 185.77,
       "v": 247.69,
-      "p": 197
+      "p": 197,
       "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/2024/changing-seasons-kit-rev24-large-1494x1350px-eu.png",
       "m": 1,
@@ -604,9 +604,9 @@
     {
       "id": "c7",
       "n": "Cheer",
-       "e": 29.07,
+      "e": 29.07,
       "v": 38.75,
-      "p": 31
+      "p": 31,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/cheer5ml-large-404x1350-eu.png",
       "m": 5,
@@ -617,7 +617,7 @@
       "n": "Cheer Touch",
       "e": 23.85,
       "v": 31.79,
-      "p": 25.5
+      "p": 25.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/cheer10ml-large-301x1350-eu.png",
       "m": 10,
@@ -626,9 +626,9 @@
     {
       "id": "c9",
       "n": "Cilantro",
-       "e": 29.30,
+      "e": 29.3,
       "v": 39.06,
-      "p": 31
+      "p": 31,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/cilantro15ml-large-500x1350-eu.png",
       "m": 15,
@@ -636,10 +636,10 @@
     },
     {
       "id": "c10",
-       "n": "Cinnamon",
+      "n": "Cinnamon",
       "e": 32.25,
       "v": 42.99,
-      "p": 34
+      "p": 34,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/cinnamon5ml-large-404x1350-eu.png",
       "m": 5,
@@ -648,9 +648,9 @@
     {
       "id": "c11",
       "n": "Cistus",
-       "e": 60.65,
+      "e": 60.65,
       "v": 80.86,
-      "p": 62
+      "p": 62,
       "k": "Öl",
       "u": "",
       "m": 5,
@@ -659,9 +659,9 @@
     {
       "id": "c12",
       "n": "Citronella",
-       "e": 22.03,
+      "e": 22.03,
       "v": 29.37,
-      "p": 23.5
+      "p": 23.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/citronella-15ml-large-500x1350-eu.png",
       "m": 15,
@@ -670,9 +670,9 @@
     {
       "id": "c13",
       "n": "Citrus Bliss",
-     "e": 27.03,
+      "e": 27.03,
       "v": 36.03,
-      "p": 29
+      "p": 29,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/citrusbliss15ml-large-500x1350-eu.png",
       "m": 15,
@@ -681,9 +681,9 @@
     {
       "id": "c14",
       "n": "Citrus Bliss Belebende Badeseife",
-         "e": 9.53,
+      "e": 9.53,
       "v": 12.71,
-      "p": 6.5
+      "p": 6.5,
       "k": "G",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/spa/citrusblissbathbar-large-1720x1350-eu.png",
       "m": 113,
@@ -692,9 +692,9 @@
     {
       "id": "c15",
       "n": "Citrus Bliss Deodorant",
-     "e": 12.26,
+      "e": 12.26,
       "v": 16.34,
-      "p": 8
+      "p": 8,
       "k": "G",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/body-care/citrus-bliss-deodorant-large-648x1350px-eu.png",
       "m": 75,
@@ -703,9 +703,9 @@
     {
       "id": "c16",
       "n": "Citrus Bliss Handlotion",
-       "e": 11.35,
+      "e": 11.35,
       "v": 15.13,
-      "p": 9.5
+      "p": 9.5,
       "k": "Ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/spa/citrus-bliss-hand-lotion-large-562x1350px-eu.png",
       "m": 75,
@@ -714,9 +714,9 @@
     {
       "id": "c17",
       "n": "Citrus Bloom",
-       "e": 27.48,
+      "e": 27.48,
       "v": 36.64,
-      "p": 29
+      "p": 29,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/citrus-bloom-large-500x1350-eu.png",
       "m": 15,
@@ -727,7 +727,7 @@
       "n": "Citrus Bloom Touch",
       "e": 18.17,
       "v": 24.23,
-      "p": 19.5
+      "p": 19.5,
       "k": "Öl",
       "u": "",
       "m": 10,
@@ -736,9 +736,9 @@
     {
       "id": "c19",
       "n": "Clary Sage",
-     "e": 44.74,
+      "e": 44.74,
       "v": 59.66,
-      "p": 47.5
+      "p": 47.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/clarysage15ml-large-500x1350-eu.png",
       "m": 15,
@@ -747,9 +747,9 @@
     {
       "id": "c20",
       "n": "ClaryCalm Roll-On",
-     "e": 37.92,
+      "e": 37.92,
       "v": 50.56,
-      "p": 40.5
+      "p": 40.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/clarycalm10ml-large-301x1350-eu.png",
       "m": 10,
@@ -758,9 +758,9 @@
     {
       "id": "c21",
       "n": "Class Kit",
-         "e": 84.03,
+      "e": 84.03,
       "v": 112.03,
-      "p": 45.5
+      "p": 45.5,
       "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/class-kit-500x630px-eu.png",
       "m": 1,
@@ -769,9 +769,9 @@
     {
       "id": "c22",
       "n": "Cleanse & Renew Kit",
-         "e": 71.68,
+      "e": 71.68,
       "v": 95.57,
-      "p": 75.5
+      "p": 75.5,
       "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/2024/cleanse-renew-rev24-large-1498x1350px-eu.png",
       "m": 1,
@@ -780,9 +780,9 @@
     {
       "id": "c23",
       "n": "Cleanse & Restore Kit",
-        "e": 312.59,
+      "e": 312.59,
       "v": 416.79,
-      "p": 283
+      "p": 283,
       "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/2024/cleanse-and-restore-kit-rev24-large-1720x1350-eu.png",
       "m": 1,
@@ -791,9 +791,9 @@
     {
       "id": "c24",
       "n": "Cleanse & Restore Vegan Einschreibungs-Kit",
-        "e": 312.59,
+      "e": 312.59,
       "v": 416.79,
-      "p": 283
+      "p": 283,
       "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/2024/cleanse-and-restore-kit-vegan-rev24-large-1720x1350-eu.png",
       "m": 1,
@@ -802,9 +802,9 @@
     {
       "id": "c25",
       "n": "Clove",
-     "e": 21.35,
+      "e": 21.35,
       "v": 28.46,
-      "p": 22.5
+      "p": 22.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/clove15ml-large-500x1350-eu.png",
       "m": 15,
@@ -813,9 +813,9 @@
     {
       "id": "c26",
       "n": "Common Myrtle",
-     "e": 29.75,
+      "e": 29.75,
       "v": 39.66,
-      "p": 24
+      "p": 24,
       "k": "Öl",
       "u": "",
       "m": 5,
@@ -824,9 +824,9 @@
     {
       "id": "c27",
       "n": "Console",
-       "e": 45.20,
+      "e": 45.2,
       "v": 60.27,
-      "p": 48
+      "p": 48,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/console5ml-large-404x1350-eu.png",
       "m": 5,
@@ -837,7 +837,7 @@
       "n": "Console Touch",
       "e": 29.52,
       "v": 39.36,
-      "p": 31.5
+      "p": 31.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/console10ml-large-301x1350-eu.png",
       "m": 10,
@@ -846,9 +846,9 @@
     {
       "id": "c29",
       "n": "Copaiba",
- "e": 41.11,
+      "e": 41.11,
       "v": 54.82,
-      "p": 43.5
+      "p": 43.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/copaiba15ml-large-500x1350-eu.png",
       "m": 15,
@@ -857,9 +857,9 @@
     {
       "id": "c30",
       "n": "Copaiba Touch",
-     "e": 28.61,
+      "e": 28.61,
       "v": 38.15,
-      "p": 30.5
+      "p": 30.5,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/copaiba-large-1720x1350.png",
       "m": 10,
@@ -868,9 +868,9 @@
     {
       "id": "c31",
       "n": "Coriander",
-   "e": 29.07,
+      "e": 29.07,
       "v": 38.75,
-      "p": 31
+      "p": 31,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/coriander15ml-large-500x1350-eu.png",
       "m": 15,
@@ -880,8 +880,8 @@
       "id": "c32",
       "n": "Correct-X Aromasalbe",
       "e": 16.13,
-      "v": 21.50,
-      "p": 14.5
+      "v": 21.5,
+      "p": 14.5,
       "k": "Ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/body-care/correctx-large-398x1350px-eu.png",
       "m": 15,
@@ -890,9 +890,9 @@
     {
       "id": "c33",
       "n": "CP+ Softgels",
-    "e": 35.96,
+      "e": 35.96,
       "v": 47.94,
-      "p": 37
+      "p": 37,
       "k": "Softgels",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/cp-softgels-large-1720x1350.png",
       "m": 60,
@@ -903,7 +903,7 @@
       "n": "Cypress",
       "e": 20.67,
       "v": 27.55,
-      "p": 22
+      "p": 22,
       "k": "Öl",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/cypress15ml-large-500x1350-eu.png",
       "m": 15,
@@ -1055,7 +1055,7 @@
     {
       "id": "d13",
       "n": "Deep Blue™ Stick",
-      "e":  33,
+      "e": 33,
       "v": 43.99,
       "p": 26,
       "k": "G",
@@ -1440,7 +1440,7 @@
     {
       "id": "h8",
       "n": "Home Essentials Kit",
-      "e": 272.50,
+      "e": 272.5,
       "v": 340.62,
       "p": 230,
       "k": "Kit",
@@ -3296,7 +3296,6 @@
       "m": 100,
       "productGroup": "single"
     },
-    
     {
       "id": "z6",
       "n": "ZenGest Touch",
