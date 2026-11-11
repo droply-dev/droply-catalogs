@@ -493,7 +493,7 @@
     },
     {
       "id": "b20",
-      "n": "Bundle „Wohlbefinden, leicht gemacht",
+      "n": "„Wohlbefinden, leicht gemacht",
       "e": 149.75,
       "v": 199.66,
       "p": 129.5,
@@ -504,13 +504,13 @@
     },
     {
       "id": "b21",
-      "n": "Bundle „Wohlbefinden, leicht gemacht“ (ohne Tabletten)",
+      "n": "„Wohlbefinden, leicht gemacht“ (ohne Tabletten)",
       "e": 135.75,
       "v": 181,
       "p": 115,
       "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/wellnessmadesimple-pillfree-large-1720x1350.png",
-      "m": 3,
+      "m": 1,
       "productGroup": "bundle"
     },
     {
