@@ -524,6 +524,30 @@
       "m": 1,
       "productGroup": "bundle"
     },
+        {
+      "id": "b23",
+      "n": "5 ml Black Spruce & dōTERRA Pebble",
+      "e": 46.76,
+      "v": 62.34,
+      "p": 22.50,
+      "k": "kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/diffusers/black-spruce-5ml-pebble-diffuser-large-1720x1350.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+        {
+      "id": "b24",
+      "n": "Bernsteinfarbener Seifenspender für Schäumende Handseife",
+      "e": 3.25,
+      "v": 4.33,
+      "p": 0,
+      "k": "stk",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/ambersoapdispenser-large-1720x1350.png",
+      "m": 1,
+      "productGroup": "single"
+    },
+
+
     {
       "id": "c",
       "n": "Cade Wood",
@@ -766,28 +790,7 @@
       "m": 1,
       "productGroup": "bundle"
     },
-    {
-      "id": "c38",
-      "n": "Class Kit - Peppermint",
-      "e": 77.25,
-      "v": 103.01,
-      "p": 38.50,
-      "k": "kit",
-      "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/class-kit-peppermint-large-1640x1350.png",
-      "m": 1,
-      "productGroup": "bundle"
-    },
-    {
-      "id": "c39",
-      "n": "Class Kit - Lavender",
-      "e": 92.50,
-      "v": 123.33,
-      "p": 45.50,
-      "k": "kit",
-      "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/2026/class-kit-lavendar-large-1640x1350.png",
-      "m": 1,
-      "productGroup": "bundle"
-    },
+    
 
     {
       "id": "c22",
@@ -965,6 +968,52 @@
       "m": 1,
       "productGroup": "bundle"
     },
+    {
+      "id": "c38",
+      "n": "Class Kit - Peppermint",
+      "e": 77.25,
+      "v": 103.01,
+      "p": 38.50,
+      "k": "kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/class-kit-peppermint-large-1640x1350.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+    {
+      "id": "c39",
+      "n": "Class Kit - Lavender",
+      "e": 92.50,
+      "v": 123.33,
+      "p": 45.50,
+      "k": "kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/2026/class-kit-lavendar-large-1640x1350.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+        {
+      "id": "c40",
+      "n": "Cananga",
+      "e": 50.50,
+      "v": 67.33,
+      "p": 0,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/cananga-large-500x1350-eu.png",
+      "m": 15,
+      "productGroup": "single"
+    },
+        {
+      "id": "c41",
+      "n": "5 ml Cinnamon & Wohlfühltasse",
+      "e": 44.76,
+      "v": 59.68,
+      "p": 30.50,
+      "k": "kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/holiday/holiday-2026/holiday-mug-cinnamon-5ml-large-1720x1350.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+
+
 
 
 
@@ -1210,12 +1259,24 @@
       "m": 15,
       "productGroup": "single"
     },
+        {
+      "id": "e5",
+      "n": "Effervescent Berry & Hand- & Bodylotion",
+      "e": 45.01,
+      "v": 60.01,
+      "p": 41.00,
+      "k": "kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/holiday/holiday-2026/effervescent-berry-hand--body-lotion-large-760x1350.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+
     {
       "id": "f",
       "n": "Family Essentials Einschreibungs-Kit",
       "e": 184.25,
-      "v": 245.66,
-      "p": 146.5,
+      "v": 245.67,
+      "p": 150,
       "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/family-essentials-kit-962x1350px-eu.png",
       "m": 1,
@@ -1226,7 +1287,7 @@
       "n": "Family Essentials Kit",
       "e": 170.75,
       "v": 227.67,
-      "p": 147.5,
+      "p": 150,
       "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/family-essentials-kit-962x1350px-eu.png",
       "m": 1,
@@ -1408,6 +1469,7 @@
       "m": 15,
       "productGroup": "single"
     },
+    
     {
       "id": "h",
       "n": "Haarpflege-Trio",
@@ -1518,6 +1580,54 @@
       "m": 10,
       "productGroup": "single"
     },
+        {
+      "id": "h10",
+      "n": "Holiday Joy",
+      "e": 30.75,
+      "v": 41.00,
+      "p": 29.50,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/holidayjoy-15ml-large-1720x1350-eu.png",
+      "m": 15,
+      "productGroup": "single"
+    },
+        {
+      "id": "h11",
+      "n": "Holiday Peace",
+      "e": 30.75,
+      "v": 41.00,
+      "p": 29.50,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/holidaypeace-15ml-large-1720x1350-eu.png",
+      "m": 15,
+      "productGroup": "single"
+    },
+        {
+      "id": "h12",
+      "n": "Hygge",
+      "e": 37.25,
+      "v": 49.67,
+      "p": 36.00,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/hygge-15ml-large-1720x1350.png",
+      "m": 15,
+      "productGroup": "single"
+    },
+        {
+      "id": "h13",
+      "n": "Holzbox mit eingraviertem dōTERRA-Logo",
+      "e": 18.25,
+      "v": 24.34,
+      "p": 0,
+      "k": "stk",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/wooden-box-medium-492x630px-eu.png",
+      "m": 1,
+      "productGroup": "accessory"
+    },
+
+
+
+
     {
       "id": "i",
       "n": "Immune Booster Kit",
@@ -1793,6 +1903,41 @@
       "m": 1,
       "productGroup": "single"
     },
+        {
+      "id": "l13",
+      "n": "15 ml Lemon Eucalyptus & Reisekulturbeutel",
+      "e": 45.01,
+      "v": 60.01,
+      "p": 24.00,
+      "k": "kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/holiday/holiday-2026/travel-toiletries-bag-lemon-eucalyptus-15ml-large-1720x1350.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+        {
+      "id": "l14",
+      "n": "Lumo Diffuser & Serenity",
+      "e": 86.50,
+      "v": 115.33,
+      "p": 46.00,
+      "k": "kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/diffusers/lumo-w-serenity-1290x1350px-eu.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+    {
+      "id": "l15",
+      "n": "Laluz Diffuser & Citrus Bliss",
+      "e": 78.00,
+      "v": 104.01,
+      "p": 25.50,
+      "k": "kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/diffusers/laluz-diffuser_citrus-bliss-combo-large-1720-x1350-v3.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+
+
     {
       "id": "m",
       "n": "Madagascar Vanilla",
@@ -2046,6 +2191,18 @@
       "m": 10,
       "productGroup": "single"
     },
+        {
+      "id": "m23",
+      "n": "Moringa & Rose Pflegende Mischung",
+      "e": 40.50,
+      "v": 54.00,
+      "p": 32.00,
+      "k": "ml",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/body-care/moringa-rose-large-1720x1350-eu.png",
+      "m": 30,
+      "productGroup": "single"
+    },
+
     {
       "id": "n",
       "n": "Nachfüllbarer Spender für Handseife",
@@ -2055,7 +2212,7 @@
       "k": "Stk",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/limited-time-offer/abode-handwash-dispenser-large-1720x1350.png",
       "m": 1,
-      "productGroup": "single"
+      "productGroup": "accessory"
     },
     {
       "id": "n1",
@@ -2110,7 +2267,7 @@
       "k": "Stk",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/orificeopener-large-638x1350-eu.png",
       "m": 1,
-      "productGroup": "single"
+      "productGroup": "accessory"
     },
     {
       "id": "o",
@@ -2416,7 +2573,7 @@
       "v": 72.67,
       "p": 0,
       "k": "Stk",
-      "u": "",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/diffusers/petal-2-large-1390x1350px-eu.png",
       "m": 1,
       "productGroup": "single"
     },
@@ -2462,7 +2619,7 @@
       "k": "Kapseln",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/veggie-caps-large-701x1350px-eu.png",
       "m": 160,
-      "productGroup": "single"
+      "productGroup": "accessory"
     },
     {
       "id": "p15",
@@ -2519,6 +2676,18 @@
       "m": 15,
       "productGroup": "single"
     },
+        {
+      "id": "p20",
+      "n": "Probefläschchen 2 ml - 72 Stück",
+      "e": 17.75,
+      "v": 23.67,
+      "p": 0,
+      "k": "stk",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/12vialdrams-medium-800x630.png",
+      "m": 72,
+      "productGroup": "single"
+    },
+
     {
       "id": "r",
       "n": "Replenishing Body Butter",
@@ -2607,6 +2776,18 @@
       "m": 15,
       "productGroup": "single"
     },
+        {
+      "id": "r8",
+      "n": "Roam Diffuser",
+      "e": 63.75,
+      "v": 85.00,
+      "p": 0,
+      "k": "stk",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/diffusers/roam-diffuser-large-852x1350-eu.png",
+      "m": 1,
+      "productGroup": "single"
+    },
+
     {
       "id": "s",
       "n": "Salubelle Roll-On",
@@ -3190,6 +3371,30 @@
       "m": 30,
       "productGroup": "single"
     },
+        {
+      "id": "v10",
+      "n": "Vanilla Dream Regenerierende Handcreme",
+      "e": 16.75,
+      "v": 22.33,
+      "p": 11.00,
+      "k": "ml",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/holiday/holiday-2026/vanilla-dream-hand-cream-large-1720x1350-eu.png",
+      "m": 74,
+      "productGroup": "single"
+    },
+        {
+      "id": "v11",
+      "n": "Vanilla Dream Lippenbalsam",
+      "e": 13.49,
+      "v": 17.99,
+      "p": 10.50,
+      "k": "g",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/holiday/holiday-2026/vanilla-dream-lip-balm-large-1720x1350.v2.png",
+      "m": 4,
+      "productGroup": "single"
+    },
+
+
     {
       "id": "w",
       "n": "Wellness Hydrating Cream",
@@ -3300,6 +3505,30 @@
       "m": 5,
       "productGroup": "single"
     },
+        {
+      "id": "y5",
+      "n": "Yarrow|Pom Revitalisierende Augenmaske",
+      "e": 45.75,
+      "v": 61.00,
+      "p": 36.50,
+      "k": "stk",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/limited-time-offer/yarrowpomeyemask-large-1720x1350.png",
+      "m": 1,
+      "productGroup": "single"
+    },
+        {
+      "id": "y6",
+      "n": "Yule Log",
+      "e": 33.00,
+      "v": 44.00,
+      "p": 32.00,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/holiday/holiday-2024/yule-log-seasonal2024-large-1720x1350.png",
+      "m": 15,
+      "productGroup": "single"
+    },
+
+
     {
       "id": "z",
       "n": "Zendocrine",
@@ -3377,6 +3606,18 @@
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/digestzen/zengest-softgels-large-1720x1350-ref24.png",
       "m": 60,
       "productGroup": "single"
+    },
+        {
+      "id": "z8",
+      "n": "Zitrone-Limette-Halspastillen",
+      "e": 23.75,
+      "v": 31.67,
+      "p": 18.00,
+      "k": "stk",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/holiday/holiday-2023/lemonlimedrops-large-1720x1350.png",
+      "m": 30,
+      "productGroup": "single"
     }
+
   ]
 }
