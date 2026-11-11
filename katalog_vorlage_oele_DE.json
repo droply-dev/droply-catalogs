@@ -376,7 +376,7 @@
       "e": 22,
       "v": 29.33,
       "p": 18.5,
-      "k": "Stk",
+      "k": "G",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/essential-skin-care/invigorating-scrub-large-608x1350px-eu.png",
       "m": 70,
       "productGroup": "single"
@@ -1575,7 +1575,7 @@
       "e": 28.5,
       "v": 38,
       "p": 21.5,
-      "k": "Stk",
+      "k": "G",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/spa/exfoliating-body-scrub-large-2282x1350px-eu.png",
       "m": 226,
       "productGroup": "single"
@@ -1729,9 +1729,9 @@
       "e": 22.75,
       "v": 30.33,
       "p": 14,
-      "k": "Stk",
+      "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/spa/lip-balm-variety-large-1346x1350px-eu.png",
-      "m": 3,
+      "m": 1,
       "productGroup": "single"
     },
     {
@@ -2598,7 +2598,7 @@
       "e": 33,
       "v": 43.99,
       "p": 24,
-      "k": "Stk",
+      "k": "Ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/salon/protectingshampoo500ml-large-1720x1350.png",
       "m": 500,
       "productGroup": "single"
@@ -2785,7 +2785,7 @@
       "e": 58.25,
       "v": 77.67,
       "p": 51,
-      "k": "Stk",
+      "k": "Ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/essential-skin-care/tightening-serum-large-356x1350px-eu.png",
       "m": 30,
       "productGroup": "single"
@@ -2818,7 +2818,7 @@
       "e": 35.75,
       "v": 47.66,
       "p": 24,
-      "k": "Stk",
+      "k": "Ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/sun-care/sun-faceandbodylotion-large-1720x1350-.png",
       "m": 150,
       "productGroup": "single"
@@ -2829,7 +2829,7 @@
       "e": 14.49,
       "v": 19.33,
       "p": 11,
-      "k": "Stk",
+      "k": "G",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/sun-care/sunlipbalm-large-1720x1350.png",
       "m": 3.5,
       "productGroup": "single"
@@ -2851,7 +2851,7 @@
       "e": 40.5,
       "v": 53.99,
       "p": 26,
-      "k": "Stk",
+      "k": "Ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/sun-care/sun_face_moisturiser-large-1720x1350.png",
       "m": 50,
       "productGroup": "single"
