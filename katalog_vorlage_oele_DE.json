@@ -1573,11 +1573,11 @@
     {
       "id": "h8",
       "n": "Home Essentials Kit",
-      "e": 272.50,
-      "v": 340.62,
-      "p": 230,
+      "e": 328.25,
+      "v": 437.67,
+      "p": 259.50,
       "k": "Kit",
-      "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/2025/home-essentials-kit-medium-rev25-800x630-eu.png",
+      "u": "https://prd-evo-content.doterra.com/images/product-cta-pic.png",
       "m": 1,
       "productGroup": "bundle"
     },
@@ -2699,6 +2699,18 @@
       "m": 72,
       "productGroup": "single"
     },
+        {
+      "id": "p21",
+      "n": "Pinguin-Diffuser & 5 ml Calmer",
+      "e": 58.50,
+      "v": 78.00,
+      "p": 19.50,
+      "k": "Kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/diffusers/penguin_diffuser_-_calmer_oil_large_1510x1350px.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+
 
     {
       "id": "r",
@@ -3612,8 +3624,8 @@
       "id": "z7",
       "n": "ZenGest Softgels",
       "e": 27,
-      "v": 35.99,
-      "p": 26,
+      "v": 32.39,
+      "p": 24.30,
       "k": "Softgels",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/digestzen/zengest-softgels-large-1720x1350-ref24.png",
       "m": 60,
