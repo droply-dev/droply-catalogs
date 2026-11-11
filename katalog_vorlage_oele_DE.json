@@ -271,6 +271,18 @@
       "m": 1,
       "productGroup": "bundle"
     },
+        {
+      "id": "a24",
+      "n": "Autumn Exclusives Kit 2026",
+      "e": 117.25,
+      "v": 156.33,
+      "p": 109.50,
+      "k": "kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/tour-kits/autumn-exclusive-kit-large-1720x1350.png",
+      "m": 4,
+      "productGroup": "bundle"
+    },
+
     {
       "id": "b",
       "n": "Baby Lotion",
