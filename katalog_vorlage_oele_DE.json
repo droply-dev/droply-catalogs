@@ -411,7 +411,7 @@
       "e": 6.25,
       "v": 8.33,
       "p": 0,
-      "k": "X",
+      "k": "stk",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/amberrollers-large-1720x983-eu.png",
       "m": 6,
       "productGroup": "accessory"
@@ -422,7 +422,7 @@
       "e": 8.25,
       "v": 11,
       "p": 0,
-      "k": "x",
+      "k": "stk",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/on-guard/amber-dispenser-3pack-medium-800x630-eu.png",
       "m": 3,
       "productGroup": "accessory"
@@ -1812,7 +1812,7 @@
       "e": 24,
       "v": 32,
       "p": 18.5,
-      "k": "x",
+      "k": "ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/salon/leaveinconditioner-large-1720x1350.png",
       "m": 237,
       "productGroup": "single"
@@ -1867,7 +1867,7 @@
       "e": 108.75,
       "v": 145.01,
       "p": 77,
-      "k": "x",
+      "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/llv-large-1720x1350-eu-rev26.png",
       "m": 3,
       "productGroup": "single"
