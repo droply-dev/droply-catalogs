@@ -411,7 +411,7 @@
       "e": 6.25,
       "v": 8.33,
       "p": 0,
-      "k": "Stk",
+      "k": "X",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/amberrollers-large-1720x983-eu.png",
       "m": 6,
       "productGroup": "accessory"
@@ -422,7 +422,7 @@
       "e": 8.25,
       "v": 11,
       "p": 0,
-      "k": "Stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/on-guard/amber-dispenser-3pack-medium-800x630-eu.png",
       "m": 3,
       "productGroup": "accessory"
@@ -550,11 +550,11 @@
     },
         {
       "id": "b24",
-      "n": "Bernsteinfarbener Seifenspender für Schäumende Handseife",
+      "n": "Bernsteinfarbener Seifenspender für Handseife",
       "e": 3.25,
       "v": 4.33,
       "p": 0,
-      "k": "stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/ambersoapdispenser-large-1720x1350.png",
       "m": 1,
       "productGroup": "single"
@@ -1091,7 +1091,7 @@
       "e": 0.5,
       "v": 0.67,
       "p": 0,
-      "k": "Stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/capstickers-800x630-eu.jpg",
       "m": 1,
       "productGroup": "accessory"
@@ -1628,11 +1628,11 @@
     },
         {
       "id": "h13",
-      "n": "Holzbox mit eingraviertem dōTERRA-Logo",
+      "n": "Holzbox mit eingraviertem Logo",
       "e": 18.25,
       "v": 24.34,
       "p": 0,
-      "k": "stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/wooden-box-medium-492x630px-eu.png",
       "m": 1,
       "productGroup": "accessory"
@@ -1779,7 +1779,7 @@
       "e": 52.25,
       "v": 69.67,
       "p": 0,
-      "k": "Stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/diffusers/laluzdiffuser-large-1720x1350.png",
       "m": 1,
       "productGroup": "single"
@@ -1812,7 +1812,7 @@
       "e": 24,
       "v": 32,
       "p": 18.5,
-      "k": "Stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/salon/leaveinconditioner-large-1720x1350.png",
       "m": 237,
       "productGroup": "single"
@@ -1867,7 +1867,7 @@
       "e": 108.75,
       "v": 145.01,
       "p": 77,
-      "k": "Stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/llv-large-1720x1350-eu-rev26.png",
       "m": 3,
       "productGroup": "single"
@@ -2218,11 +2218,11 @@
 
     {
       "id": "n",
-      "n": "Nachfüllbarer Spender für Handseife",
+      "n": "Nachfüllbarer Seifenspender",
       "e": 11,
       "v": 14.67,
       "p": 0,
-      "k": "Stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/limited-time-offer/abode-handwash-dispenser-large-1720x1350.png",
       "m": 1,
       "productGroup": "accessory"
@@ -2277,7 +2277,7 @@
       "e": 5,
       "v": 6.66,
       "p": 0,
-      "k": "Stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/orificeopener-large-638x1350-eu.png",
       "m": 1,
       "productGroup": "accessory"
@@ -2354,7 +2354,7 @@
       "e": 10.5,
       "v": 13.99,
       "p": 8,
-      "k": "Stk",
+      "k": "ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/on-guard/on-guard-purifying-mist-large-280x1350px-eu.png",
       "m": 27,
       "productGroup": "single"
@@ -2431,7 +2431,7 @@
       "e": 124,
       "v": 165.33,
       "p": 100,
-      "k": "Stk",
+      "k": "Kit",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/limited-time-offer/post-convention-kits/2026/on-line-convention-kit-1720x1350.png",
       "m": 3,
       "productGroup": "single"
@@ -2585,7 +2585,7 @@
       "e": 54.5,
       "v": 72.67,
       "p": 0,
-      "k": "Stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/diffusers/petal-2-large-1390x1350px-eu.png",
       "m": 1,
       "productGroup": "single"
@@ -2662,7 +2662,7 @@
       "e": 24.5,
       "v": 32.67,
       "p": 20.5,
-      "k": "Stk",
+      "k": "ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/essential-skin-care/pore-reducing-toner-large-405x1350px-eu.png",
       "m": 118,
       "productGroup": "single"
@@ -2673,7 +2673,7 @@
       "e": 3,
       "v": 4,
       "p": 0,
-      "k": "Stk",
+      "k": "!ml",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/fcopump-large-423x1350-eu.png",
       "m": 1,
       "productGroup": "single"
@@ -2719,8 +2719,8 @@
       "e": 26.5,
       "v": 35.33,
       "p": 20,
-      "k": "Stk",
-      "u": "",
+      "k": "g",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/spa/replenishing-body-butter-large-2221x1350px-eu.png",
       "m": 198,
       "productGroup": "single"
     },
@@ -2774,8 +2774,8 @@
       "e": 23.25,
       "v": 31,
       "p": 0,
-      "k": "Stk",
-      "u": "",
+      "k": "ml",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/spa/rose-hand-lotion-large-498x1350px-eu.png",
       "m": 100,
       "productGroup": "single"
     },
@@ -2807,7 +2807,7 @@
       "e": 63.75,
       "v": 85.00,
       "p": 0,
-      "k": "stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/diffusers/roam-diffuser-large-852x1350-eu.png",
       "m": 1,
       "productGroup": "single"
@@ -2852,7 +2852,7 @@
       "e": 9.75,
       "v": 12.99,
       "p": 0,
-      "k": "Stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/key-chain-grey-medium-1154x630px-eu.png",
       "m": 1,
       "productGroup": "single"
@@ -3160,7 +3160,7 @@
       "e": 13.99,
       "v": 18.66,
       "p": 8,
-      "k": "Stk",
+      "k": "g",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/body-care/supermint-toothpaste-large-1720x1350.png",
       "m": 125,
       "productGroup": "single"
@@ -3391,7 +3391,7 @@
       "e": 99,
       "v": 132,
       "p": 95,
-      "k": "Stk",
+      "k": "saches",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/vmg-large-1720x1350.png",
       "m": 30,
       "productGroup": "single"
@@ -3536,7 +3536,7 @@
       "e": 45.75,
       "v": 61.00,
       "p": 36.50,
-      "k": "stk",
+      "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/limited-time-offer/yarrowpomeyemask-large-1720x1350.png",
       "m": 1,
       "productGroup": "single"
