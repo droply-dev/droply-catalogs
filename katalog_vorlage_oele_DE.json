@@ -3475,6 +3475,17 @@
       "m": 15,
       "productGroup": "single"
     },
+     {
+      "id": "25",
+      "n": "Weihrauch Mikroperlen-Kapseln",
+      "e": 50.00,
+      "v": 66.67,
+      "p": 47,
+      "k": "Kapseln",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/frankincensecapsules-large-1720x1350.png",
+      "m": 30,
+      "productGroup": "single"
+    },
     {
       "id": "y",
       "n": "Yarrow Pom",
