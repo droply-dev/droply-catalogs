@@ -1638,7 +1638,17 @@
       "productGroup": "accessory"
     },
 
-
+  {
+      "id": "h14",
+      "n": "Home Essentials Kit (Sonderpreis für neue Mitglieder)",
+      "e": 272.50,
+      "v": 437.67,
+      "p": 230.00,
+      "k": "Kit",
+      "u": "https://prd-evo-content.doterra.com/images/product-cta-pic.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
 
 
     {
