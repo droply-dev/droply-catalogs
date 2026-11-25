@@ -283,6 +283,17 @@
       "m": 4,
       "productGroup": "bundle"
     },
+     {
+      "id": "a25",
+      "n": "Aluminium-Diffuserverschlüsse (3er-Pack)",
+      "e": 7.00,
+      "v": 9.33,
+      "p": 0,
+      "k": "x",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/limited-time-offer/november-sale/november-sale-2023/aluminumdiffusercaps-large-1720x1350.png",
+      "m": 3,
+      "productGroup": "accessory"
+    },
 
     {
       "id": "b",
@@ -557,6 +568,17 @@
       "k": "x",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/accessories/ambersoapdispenser-large-1720x1350.png",
       "m": 1,
+      "productGroup": "single"
+    },
+     {
+      "id": "b25",
+      "n": "Becoming",
+      "e": 29.75,
+      "v": 39.66,
+      "p": 29.00,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/becoming-10ml-large-1720x1350.png",
+      "m": 10,
       "productGroup": "single"
     },
 
@@ -1025,6 +1047,18 @@
       "m": 1,
       "productGroup": "bundle"
     },
+    {
+      "id": "c42",
+      "n": "Coast Touch",
+      "e": 28.25,
+      "v": 37.66,
+      "p": 27.50,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/coast-10ml-large-1720x1350.png",
+      "m": 10,
+      "productGroup": "single"
+    },
+
 
 
 
@@ -1217,6 +1251,18 @@
       "m": 5,
       "productGroup": "single"
     },
+    {
+      "id": "d17",
+      "n": "Deko „Schneeflocke“",
+      "e": 2.25,
+      "v": 3.00,
+      "p": 0,
+      "k": "x",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/limited-time-offer/november-sale/november-sale-2025/ceramic-ornament-medium-800x630px.png",
+      "m": 1,
+      "productGroup": "accessory"
+    },
+
     {
       "id": "e",
       "n": "EO Mega+ Softgels",
@@ -3296,6 +3342,18 @@
       "m": 15,
       "productGroup": "single"
     },
+        {
+      "id": "t11",
+      "n": "Trio für Wohlfühlmomente",
+      "e": 61.75,
+      "v": 82.34,
+      "p": 63,
+      "k": "Kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/special-offers/holiday/holiday-2024/bright-and-cosy-trio-seasonal2024-large-1720x1350.png",
+      "m": 1,
+      "productGroup": "bundle"
+    }
+
     {
       "id": "v",
       "n": "Valerian",
