@@ -2141,7 +2141,7 @@
     },
     {
       "id": "m12",
-      "n": "MetaPWR Recharge (Erbeere)",
+      "n": "MetaPWR Recharge (Erdbeere)",
       "e": 41.25,
       "v": 55,
       "p": 33.5,
@@ -2915,7 +2915,7 @@
     },
     {
       "id": "s4",
-      "n": "Schützendes Shampo",
+      "n": "Schützendes Shampoo",
       "e": 33,
       "v": 43.99,
       "p": 24,
@@ -3361,7 +3361,7 @@
       "v": 85,
       "p": 43.5,
       "k": "Öl",
-      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/vetiver15ml-large-500x1350-eu.png",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/valerianroot-large-1720x1350.png",
       "m": 15,
       "productGroup": "single"
     },
@@ -3545,7 +3545,7 @@
       "productGroup": "single"
     },
      {
-      "id": "25",
+      "id": "w5",
       "n": "Weihrauch Mikroperlen-Kapseln",
       "e": 50.00,
       "v": 66.67,
