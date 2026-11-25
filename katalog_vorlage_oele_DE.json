@@ -3367,15 +3367,16 @@
     },
     {
       "id": "v1",
-      "n": "vEO Mega  Omegakomplex",
-      "e": 67.5,
-      "v": 90,
-      "p": 58.5,
+      "n": "vEO Mega Omegakomplex",
+      "e": 63.75,
+      "v": 85,
+      "p": 57,
       "k": "Kapseln",
-      "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/veo-mega-large-688x1350px-eu.png",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/veo-mega-large-1720x1350.png",
       "m": 120,
       "productGroup": "single"
-    },
+    }
+
     {
       "id": "v2",
       "n": "Veráge Feuchtigkeitscreme",
