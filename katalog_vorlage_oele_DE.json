@@ -1451,6 +1451,20 @@
       "m": 10,
       "productGroup": "single"
     },
+        {
+      "id": "f11",
+      "n": "Frankincense & Serenity Mini-Sticks",
+      "e": 42.71,
+      "v": 50.21,
+      "p": 46,
+      "k": "Kit",
+      "u": "sketch://kit?color=%238E7CC3",
+      "m": 2,
+      "b": "",
+      "productGroup": "bundle"
+    },
+
+
     {
       "id": "g",
       "n": "Galbanum",
@@ -2271,6 +2285,19 @@
       "m": 30,
       "productGroup": "single"
     },
+        {
+      "id": "m24",
+      "n": "Myst Diffuser & Mālama",
+      "e": 49.38,
+      "v": 58.19,
+      "p": 100,
+      "k": "Kit",
+      "u": "sketch://kit?color=%23B5895A",
+      "m": 2,
+      "b": "",
+      "productGroup": "bundle"
+    },
+
 
     {
       "id": "n",
@@ -2525,6 +2552,18 @@
       "m": 10,
       "productGroup": "single"
     },
+        {
+      "id": "o17",
+      "n": "Orange Bliss Honig",
+      "e": 15.83,
+      "v": 18.69,
+      "p": 11.5,
+      "k": "g",
+      "u": "sketch://tube?color=%23E69F24",
+      "m": 150,
+      "b": "",
+      "productGroup": "single"
+    },
     {
       "id": "p",
       "n": "Passion",
@@ -2768,6 +2807,19 @@
       "productGroup": "bundle"
     },
 
+
+    {
+      "id": "p22",
+      "n": "PastTense Stick + Sweet Gum",
+      "e": 21.43,
+      "v": 28.57,
+      "p": 20,
+      "k": "g",
+      "u": "sketch://tube?color=%239585B8",
+      "m": 30,
+      "b": "",
+      "productGroup": "single"
+    },
 
     {
       "id": "r",
@@ -3553,6 +3605,18 @@
       "k": "Kapseln",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/frankincensecapsules-large-1720x1350.png",
       "m": 30,
+      "productGroup": "single"
+    },
+        {
+      "id": "w6",
+      "n": "Winterberry",
+      "e": 28.36,
+      "v": 37.81,
+      "p": 32.5,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23B8336A",
+      "m": 15,
+      "b": "",
       "productGroup": "single"
     },
     {
