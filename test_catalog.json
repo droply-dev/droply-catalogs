@@ -3,7 +3,7 @@
   "version": 1,
   "exportedAt": "2026-11-27T15:00:00.000Z",
   "catalog": {
-    "name": "Bsic (Demo)",
+    "name": "Basic (Demo)",
     "currency": "EUR"
   },
   "products": [
@@ -14,7 +14,7 @@
       "v": 9.00,
       "p": 0,
       "k": "stk",
-      "u": "sketch://tube?color=%239c734c&color2=%23f6f2ee&color3=%234a3c30",
+      "u": "sketch://tube?color=%238C5A32&color2=%23C68B59&color3=%234A2E16",
       "m": 6,
       "productGroup": "accessory"
     },
@@ -25,7 +25,7 @@
       "v": 28.00,
       "p": 20,
       "k": "Öl",
-      "u": "sketch://oil?color=%23558f4e&color2=%23f1f5f0&color3=%233a4738",
+      "u": "sketch://oil?color=%233B7A3E&color2=%2368B36B&color3=%231E4620",
       "m": 15,
       "productGroup": "single"
     },
@@ -36,7 +36,7 @@
       "v": 42.00,
       "p": 30,
       "k": "Öl",
-      "u": "sketch://oil?color=%237d9946&color2=%23f4f6ee&color3=%23434a34",
+      "u": "sketch://oil?color=%236B8E23&color2=%239ACD32&color3=%233B5311",
       "m": 15,
       "productGroup": "single"
     },
@@ -47,7 +47,7 @@
       "v": 20.00,
       "p": 14,
       "k": "Öl",
-      "u": "sketch://oil?color=%238c644b&color2=%23f5f1ee&color3=%23453830",
+      "u": "sketch://oil?color=%237A492E&color2=%23B5724D&color3=%23422414",
       "m": 15,
       "productGroup": "single"
     },
@@ -58,7 +58,7 @@
       "v": 34.00,
       "p": 24,
       "k": "Öl",
-      "u": "sketch://oil?color=%23a84c39&color2=%23f7f0ee&color3=%234d342e",
+      "u": "sketch://oil?color=%239E3623&color2=%23D95B43&color3=%2359190E",
       "m": 5,
       "productGroup": "single"
     },
@@ -69,7 +69,7 @@
       "v": 22.00,
       "p": 16,
       "k": "Öl",
-      "u": "sketch://oil?color=%238f6846&color2=%23f5f1ed&color3=%23473a2f",
+      "u": "sketch://oil?color=%23784B2A&color2=%23AD7347&color3=%233E2411",
       "m": 15,
       "productGroup": "single"
     },
@@ -80,7 +80,7 @@
       "v": 150.00,
       "p": 110,
       "k": "Kit",
-      "u": "sketch://kit?color=%233e8777&color2=%23eff5f3&color3=%23334742",
+      "u": "sketch://kit?color=%23006D65&color2=%2326A69A&color3=%23003D38",
       "m": 1,
       "productGroup": "bundle"
     },
@@ -91,7 +91,7 @@
       "v": 22.00,
       "p": 16,
       "k": "Öl",
-      "u": "sketch://oil?color=%23448c80&color2=%23eff5f4&color3=%23344744",
+      "u": "sketch://oil?color=%232B7A78&color2=%2352B2AF&color3=%23174745",
       "m": 15,
       "productGroup": "single"
     },
@@ -102,7 +102,7 @@
       "v": 75.00,
       "p": 55,
       "k": "Öl",
-      "u": "sketch://oil?color=%23a68e42&color2=%23f7f5ee&color3=%234d4631",
+      "u": "sketch://oil?color=%239C7A28&color2=%23D4AF37&color3=%23544010",
       "m": 15,
       "productGroup": "single"
     },
@@ -113,7 +113,7 @@
       "v": 48.00,
       "p": 36,
       "k": "Öl",
-      "u": "sketch://oil?color=%23a14b73&color2=%23f7f0f3&color3=%234a323d",
+      "u": "sketch://oil?color=%23A63A6C&color2=%23DB6B9E&color3=%235C1938",
       "m": 15,
       "productGroup": "single"
     },
@@ -124,7 +124,7 @@
       "v": 52.00,
       "p": 38,
       "k": "Öl",
-      "u": "sketch://oil?color=%23ad763b&color2=%23f7f3ee&color3=%234d3e2e",
+      "u": "sketch://oil?color=%23A86424&color2=%23E09145&color3=%2359320E",
       "m": 15,
       "productGroup": "single"
     },
@@ -135,7 +135,7 @@
       "v": 25.00,
       "p": 18,
       "k": "Öl",
-      "u": "sketch://oil?color=%23b35746&color2=%23f7f1ef&color3=%234d3530",
+      "u": "sketch://oil?color=%23C24638&color2=%23F27466&color3=%23691E16",
       "m": 15,
       "productGroup": "single"
     },
@@ -145,8 +145,8 @@
       "e": 14.00,
       "v": 20.00,
       "p": 14,
-      "k": "Ml",
-      "u": "sketch://tube?color=%239c5479&color2=%23f6f1f4&color3=%2347343e",
+      "k": "!ml",
+      "u": "sketch://tube?color=%238E456B&color2=%23C977A1&color3=%234A1E35",
       "m": 100,
       "productGroup": "single"
     },
@@ -157,7 +157,7 @@
       "v": 30.00,
       "p": 22,
       "k": "Öl",
-      "u": "sketch://oil?color=%237e549e&color2=%23f4f1f7&color3=%2340344a",
+      "u": "sketch://oil?color=%236E489E&color2=%239D75D1&color3=%233B2259",
       "m": 15,
       "productGroup": "single"
     },
@@ -168,7 +168,7 @@
       "v": 22.00,
       "p": 16,
       "k": "Öl",
-      "u": "sketch://oil?color=%23754e94&color2=%23f3f0f6&color3=%233d3247",
+      "u": "sketch://oil?color=%23633F8F&color2=%23916AC2&color3=%23341D52",
       "m": 10,
       "productGroup": "single"
     },
@@ -179,7 +179,7 @@
       "v": 18.00,
       "p": 12,
       "k": "Öl",
-      "u": "sketch://oil?color=%23b09f38&color2=%23f7f6ee&color3=%234d492f",
+      "u": "sketch://oil?color=%23B59B1D&color2=%23E8CC3C&color3=%23615109",
       "m": 15,
       "productGroup": "single"
     },
@@ -190,7 +190,7 @@
       "v": 16.00,
       "p": 11,
       "k": "Öl",
-      "u": "sketch://oil?color=%237a9644&color2=%23f3f5ee&color3=%23414733",
+      "u": "sketch://oil?color=%236D8C2B&color2=%239EC24E&color3=%23384A12",
       "m": 15,
       "productGroup": "single"
     },
@@ -201,7 +201,7 @@
       "v": 20.00,
       "p": 14,
       "k": "Öl",
-      "u": "sketch://oil?color=%234e9444&color2=%23f0f5ef&color3=%23354733",
+      "u": "sketch://oil?color=%233E8E2E&color2=%236BC758&color3=%231D4D14",
       "m": 15,
       "productGroup": "single"
     },
@@ -212,7 +212,7 @@
       "v": 20.00,
       "p": 14,
       "k": "Beadlets",
-      "u": "sketch://beadlet?color=%233f8a7e&color2=%23eff5f4&color3=%23324542",
+      "u": "sketch://beadlet?color=%232B7A6E&color2=%2352B5A6&color3=%2314473F",
       "m": 100,
       "productGroup": "single"
     },
@@ -223,7 +223,7 @@
       "v": 34.00,
       "p": 24,
       "k": "Öl",
-      "u": "sketch://oil?color=%239e4c3e&color2=%23f6f0ef&color3=%2347322e",
+      "u": "sketch://oil?color=%238F3A2B&color2=%23C9624F&color3=%234D1A11",
       "m": 15,
       "productGroup": "single"
     },
@@ -234,7 +234,7 @@
       "v": 28.00,
       "p": 20,
       "k": "Öl",
-      "u": "sketch://oil?color=%23428c7b&color2=%23eff5f3&color3=%23334742",
+      "u": "sketch://oil?color=%23287A68&color2=%234EB59E&color3=%2312453A",
       "m": 15,
       "productGroup": "single"
     },
@@ -245,7 +245,7 @@
       "v": 25.00,
       "p": 18,
       "k": "Öl",
-      "u": "sketch://oil?color=%23498a67&color2=%23f0f5f2&color3=%2335473d",
+      "u": "sketch://oil?color=%233B7A54&color2=%2366B384&color3=%231B452C",
       "m": 15,
       "productGroup": "single"
     },
@@ -256,7 +256,7 @@
       "v": 18.00,
       "p": 0,
       "k": "stk",
-      "u": "sketch://oil?color=%23527574&color2=%23f0f3f3&color3=%23364040",
+      "u": "sketch://oil?color=%23466875&color2=%23749CAB&color3=%23223740",
       "m": 50,
       "productGroup": "accessory"
     },
@@ -267,7 +267,7 @@
       "v": 16.00,
       "p": 11,
       "k": "Öl",
-      "u": "sketch://oil?color=%23b5763a&color2=%23f7f2ee&color3=%234d3c2e",
+      "u": "sketch://oil?color=%23BD661E&color2=%23F08E3C&color3=%2363320A",
       "m": 15,
       "productGroup": "single"
     },
@@ -278,7 +278,7 @@
       "v": 28.00,
       "p": 20,
       "k": "Öl",
-      "u": "sketch://oil?color=%23539149&color2=%23f1f5f0&color3=%23384735",
+      "u": "sketch://oil?color=%23428038&color2=%236FB863&color3=%2320471A",
       "m": 15,
       "productGroup": "single"
     },
@@ -289,7 +289,7 @@
       "v": 9.00,
       "p": 0,
       "k": "Kapseln",
-      "u": "sketch://capsule?color=%23478c78&color2=%23eff5f3&color3=%23354742",
+      "u": "sketch://capsule?color=%23367A66&color2=%2361B39B&color3=%23194538",
       "m": 100,
       "productGroup": "accessory"
     }
