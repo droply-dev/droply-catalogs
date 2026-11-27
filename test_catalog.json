@@ -1,0 +1,297 @@
+{
+  "format": "droply-product-catalog",
+  "version": 1,
+  "exportedAt": "2026-11-27T15:00:00.000Z",
+  "catalog": {
+    "name": "Essential Basics (Demo)",
+    "currency": "EUR"
+  },
+  "products": [
+    {
+      "id": "a",
+      "n": "Amber Roll-On Bottles",
+      "e": 6.00,
+      "v": 9.00,
+      "p": 0,
+      "k": "stk",
+      "u": "sketch://tube?color=%23876445",
+      "m": 6,
+      "productGroup": "accessory"
+    },
+    {
+      "id": "b",
+      "n": "Basil",
+      "e": 20.00,
+      "v": 28.00,
+      "p": 20,
+      "k": "Öl",
+      "u": "sketch://oil?color=%232dab2d",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "b1",
+      "n": "Bergamot",
+      "e": 30.00,
+      "v": 42.00,
+      "p": 30,
+      "k": "Öl",
+      "u": "sketch://oil?color=%2397b72c",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "c",
+      "n": "Cedarwood",
+      "e": 14.00,
+      "v": 20.00,
+      "p": 14,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23815650",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "c1",
+      "n": "Cinnamon",
+      "e": 24.00,
+      "v": 34.00,
+      "p": 24,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23cb4331",
+      "m": 5,
+      "productGroup": "single"
+    },
+    {
+      "id": "c2",
+      "n": "Clove",
+      "e": 16.00,
+      "v": 22.00,
+      "p": 16,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23876445",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "e",
+      "n": "Essential Starter Set",
+      "e": 110.00,
+      "v": 150.00,
+      "p": 110,
+      "k": "Kit",
+      "u": "sketch://kit?color=%231e947f",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+    {
+      "id": "e1",
+      "n": "Eucalyptus",
+      "e": 16.00,
+      "v": 22.00,
+      "p": 16,
+      "k": "Öl",
+      "u": "sketch://oil?color=%2327a388",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "f",
+      "n": "Frankincense",
+      "e": 55.00,
+      "v": 75.00,
+      "p": 55,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23cfae2b",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "g",
+      "n": "Geranium",
+      "e": 36.00,
+      "v": 48.00,
+      "p": 36,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23ae2e6e",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "g1",
+      "n": "Ginger",
+      "e": 38.00,
+      "v": 52.00,
+      "p": 38,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23d2782a",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "g2",
+      "n": "Grapefruit",
+      "e": 18.00,
+      "v": 25.00,
+      "p": 18,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23cb4331",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "h",
+      "n": "Hand Lotion",
+      "e": 14.00,
+      "v": 20.00,
+      "p": 14,
+      "k": "Ml",
+      "u": "sketch://tube?color=%23ae2e6e",
+      "m": 100,
+      "productGroup": "single"
+    },
+    {
+      "id": "l",
+      "n": "Lavender",
+      "e": 22.00,
+      "v": 30.00,
+      "p": 22,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23952aad",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "l1",
+      "n": "Lavender Roll-On",
+      "e": 16.00,
+      "v": 22.00,
+      "p": 16,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23952aad",
+      "m": 10,
+      "productGroup": "single"
+    },
+    {
+      "id": "l2",
+      "n": "Lemon",
+      "e": 12.00,
+      "v": 18.00,
+      "p": 12,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23cfae2b",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "l3",
+      "n": "Lemongrass",
+      "e": 11.00,
+      "v": 16.00,
+      "p": 11,
+      "k": "Öl",
+      "u": "sketch://oil?color=%2397b72c",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "l4",
+      "n": "Lime",
+      "e": 14.00,
+      "v": 20.00,
+      "p": 14,
+      "k": "Öl",
+      "u": "sketch://oil?color=%232dab2d",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "m",
+      "n": "Mint Pearls",
+      "e": 14.00,
+      "v": 20.00,
+      "p": 14,
+      "k": "Beadlets",
+      "u": "sketch://beadlet?color=%231e947f",
+      "m": 100,
+      "productGroup": "single"
+    },
+    {
+      "id": "o",
+      "n": "Oregano",
+      "e": 24.00,
+      "v": 34.00,
+      "p": 24,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23cb4331",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "p",
+      "n": "Peppermint",
+      "e": 20.00,
+      "v": 28.00,
+      "p": 20,
+      "k": "Öl",
+      "u": "sketch://oil?color=%231e947f",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "r",
+      "n": "Rosemary",
+      "e": 18.00,
+      "v": 25.00,
+      "p": 18,
+      "k": "Öl",
+      "u": "sketch://oil?color=%2327a388",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "s",
+      "n": "Sample Vials",
+      "e": 12.00,
+      "v": 18.00,
+      "p": 0,
+      "k": "stk",
+      "u": "sketch://oil?color=%23365F59",
+      "m": 50,
+      "productGroup": "accessory"
+    },
+    {
+      "id": "s1",
+      "n": "Sweet Orange",
+      "e": 11.00,
+      "v": 16.00,
+      "p": 11,
+      "k": "Öl",
+      "u": "sketch://oil?color=%23d2782a",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "t",
+      "n": "Tea Tree",
+      "e": 20.00,
+      "v": 28.00,
+      "p": 20,
+      "k": "Öl",
+      "u": "sketch://oil?color=%232dab2d",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "id": "v",
+      "n": "Veggie Capsules",
+      "e": 6.00,
+      "v": 9.00,
+      "p": 0,
+      "k": "Kapseln",
+      "u": "sketch://capsule?color=%2327a388",
+      "m": 100,
+      "productGroup": "accessory"
+    }
+  ]
+}
