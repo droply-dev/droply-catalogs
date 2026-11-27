@@ -2379,7 +2379,7 @@
     },
     {
       "id": "o2",
-      "n": "On Guard Aufhellende Zahnpasta",
+      "n": "On Guard Zahnpasta",
       "e": 12,
       "v": 15.99,
       "p": 6.5,
@@ -2401,7 +2401,7 @@
     },
     {
       "id": "o4",
-      "n": "On Guard Cleaner Concentrate",
+      "n": "On Guard Reinigungskonzentrat",
       "e": 20.75,
       "v": 27.67,
       "p": 14.5,
@@ -2441,17 +2441,6 @@
       "k": "Stk",
       "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/on-guard/onguardmist-5pk-large-1720x1350.png",
       "m": 5,
-      "productGroup": "single"
-    },
-    {
-      "id": "o8",
-      "n": "On Guard Kügelchen",
-      "e": 18.25,
-      "v": 24.34,
-      "p": 19.5,
-      "k": "Beadlets",
-      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/on-guard/on-guard-beadlets-large-327x1350px-eu.png",
-      "m": 125,
       "productGroup": "single"
     },
     {
